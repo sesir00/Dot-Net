@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\try\try\obj\Debug\Nccs.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\try\try\obj\Debug\Nccs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\try\try\bin\Debug\@try.exe.config
+C:\Users\Admin\source\repos\try\try\bin\Debug\@try.exe
+C:\Users\Admin\source\repos\try\try\bin\Debug\@try.pdb
+C:\Users\Admin\source\repos\try\try\obj\Debug\@try.exe
+C:\Users\Admin\source\repos\try\try\obj\Debug\@try.pdb
+C:\Users\Admin\source\repos\Nccs\Ncss\bin\Debug\@try.exe.config
+C:\Users\Admin\source\repos\Nccs\Ncss\bin\Debug\@try.exe
+C:\Users\Admin\source\repos\Nccs\Ncss\bin\Debug\@try.pdb
+C:\Users\Admin\source\repos\Nccs\Ncss\obj\Debug\Nccs.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Nccs\Ncss\obj\Debug\Nccs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Nccs\Ncss\obj\Debug\@try.exe
+C:\Users\Admin\source\repos\Nccs\Ncss\obj\Debug\@try.pdb

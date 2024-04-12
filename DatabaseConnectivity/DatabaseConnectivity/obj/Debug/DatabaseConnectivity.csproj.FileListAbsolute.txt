@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\DatabaseConnectivity\DatabaseConnectivity\bin\Debug\DatabaseConnectivity.exe.config
+C:\Users\Admin\source\repos\DatabaseConnectivity\DatabaseConnectivity\bin\Debug\DatabaseConnectivity.exe
+C:\Users\Admin\source\repos\DatabaseConnectivity\DatabaseConnectivity\bin\Debug\DatabaseConnectivity.pdb
+C:\Users\Admin\source\repos\DatabaseConnectivity\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DatabaseConnectivity\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DatabaseConnectivity\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.exe
+C:\Users\Admin\source\repos\DatabaseConnectivity\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.pdb
+D:\CSIT\.NET\repos\DatabaseConnectivity\DatabaseConnectivity\bin\Debug\DatabaseConnectivity.exe.config
+D:\CSIT\.NET\repos\DatabaseConnectivity\DatabaseConnectivity\bin\Debug\DatabaseConnectivity.exe
+D:\CSIT\.NET\repos\DatabaseConnectivity\DatabaseConnectivity\bin\Debug\DatabaseConnectivity.pdb
+D:\CSIT\.NET\repos\DatabaseConnectivity\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.csproj.AssemblyReference.cache
+D:\CSIT\.NET\repos\DatabaseConnectivity\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.csproj.CoreCompileInputs.cache
+D:\CSIT\.NET\repos\DatabaseConnectivity\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.exe
+D:\CSIT\.NET\repos\DatabaseConnectivity\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.pdb

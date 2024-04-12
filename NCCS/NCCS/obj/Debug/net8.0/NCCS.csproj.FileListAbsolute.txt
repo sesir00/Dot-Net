@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\NCCS\NCCS\bin\Debug\net8.0\NCCS.exe
+C:\Users\Admin\source\repos\NCCS\NCCS\bin\Debug\net8.0\NCCS.deps.json
+C:\Users\Admin\source\repos\NCCS\NCCS\bin\Debug\net8.0\NCCS.runtimeconfig.json
+C:\Users\Admin\source\repos\NCCS\NCCS\bin\Debug\net8.0\NCCS.dll
+C:\Users\Admin\source\repos\NCCS\NCCS\bin\Debug\net8.0\NCCS.pdb
+C:\Users\Admin\source\repos\NCCS\NCCS\obj\Debug\net8.0\NCCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\NCCS\NCCS\obj\Debug\net8.0\NCCS.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\NCCS\NCCS\obj\Debug\net8.0\NCCS.AssemblyInfo.cs
+C:\Users\Admin\source\repos\NCCS\NCCS\obj\Debug\net8.0\NCCS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NCCS\NCCS\obj\Debug\net8.0\NCCS.dll
+C:\Users\Admin\source\repos\NCCS\NCCS\obj\Debug\net8.0\refint\NCCS.dll
+C:\Users\Admin\source\repos\NCCS\NCCS\obj\Debug\net8.0\NCCS.pdb
+C:\Users\Admin\source\repos\NCCS\NCCS\obj\Debug\net8.0\NCCS.genruntimeconfig.cache
+C:\Users\Admin\source\repos\NCCS\NCCS\obj\Debug\net8.0\ref\NCCS.dll
